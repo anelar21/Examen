@@ -1,4 +1,0 @@
-Examen
-======
-
-Examen Redes Neuronales
